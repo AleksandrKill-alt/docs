@@ -1,3 +1,4 @@
+🛡️🔒The inability to add having the right to change for yourself needs protection this and will be a contribution🔒
 ---
 title: Authorizing OAuth Apps
 intro: 'You can connect your {% data variables.product.product_name %} identity to third-party applications using OAuth. When authorizing an {% data variables.product.prodname_oauth_app %}, you should ensure you trust the application, review who it''s developed by, and review the kinds of information the application wants to access.'
@@ -89,3 +90,4 @@ If you belong to any organizations that enforce SAML single sign-on, you must ha
 - "[{% data variables.product.prodname_marketplace %} support](/articles/github-marketplace-support)"
 
 {% endif %}
+🛡️™️
